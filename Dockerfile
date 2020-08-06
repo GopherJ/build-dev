@@ -1,5 +1,5 @@
 FROM ekidd/rust-musl-builder:nightly-2020-03-12
-MAINTAINER Cheng JIANG <cheng.jiang@ubudu.com>
+MAINTAINER Cheng JIANG <alex_cj96@foxmail.com>
 
 USER rust
 
